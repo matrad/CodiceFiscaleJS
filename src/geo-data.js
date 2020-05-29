@@ -8447,6 +8447,7 @@ export const COMUNI = [
   ['M190', 'PN', 'ZOPPOLA'],
   ['M194', 'VI', 'ZOVENCEDO'],
   ['M196', 'BI', 'ZUBIENA'],
+  ['F888', 'CZ', 'NICASTRO'],
   ['M197', 'SV', 'ZUCCARELLO'],
   ['M198', 'TN', 'ZUCLO'],
   ['M199', 'VI', 'ZUGLIANO'],
