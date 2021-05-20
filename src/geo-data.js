@@ -8457,6 +8457,7 @@ export const COMUNI = [
   ['M203', 'AV', 'ZUNGOLI'],
   ['M204', 'VV', 'ZUNGRI'],
   ['Z33L', 'EE', 'MAROKKO'],
+  ['Z23S', 'EE', 'PAKISTAN'],
   ['Z118', 'EE', 'IUGOSLAVIA']
 ]
 
